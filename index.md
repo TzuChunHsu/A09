@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
 
-You can use the [editor on GitHub](https://github.com/TzuChunHsu/A09/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+	<meta charset="utf-8">
+	<title>San Joaquin Valley Town Hall</title>
+	<link rel="shortcut icon" href="../images/favicon.ico">
+</head>
+<body>
+	<h1>Andrew Ross Sorkin, author of <em>Too Big to Fail</em></h1>
+	<h4>November 16, 2010</h4>
+	<img src="../images/sorkin_desk260.jpg">
+	<p>New York Times columnist and author, Andrew Ross Sorkin, has been described as the most famous financial journalist of his generation. His book, Too Big to Fail, was the first behind-the-scenes account of the financial crisis that led to our current recession.
+	<br><br>The Economist, The Financial Times, and Business Week all named Too Big To Fail one of the best books of the year. The book was published by Viking October 20, 2009. The book was adapted as a movie by HBO Films and premiered on HBO on May 23, 2011.</p>
+			
+	<h2>The cast of the movie: <em>Too Big to Fail</em></h2>
+	<ol>
+		<li>William Hurt as Hank Paulson</li>
+		<li>Paul Giamatti as Ben Bernanke</li>
+		<li>Billy Crudup as Timothy Geithner</li>
+	</ol>
+			
+	<h2>Movie reviews</h2>
+	
+	<p style="padding: 0 3em;"><q>Lots of heat but not very much light. It came across as a kind of daytime soap opera version showing the personalities of the players rather than dealing with the nuts and bolts of what really happened. Even that would not have been so bad but the movie tries to portray lots of these folks as sympathetic figures just trying to do the right thing.</q>
+	
+	<br><br><q> I am watching this for the 3rd time, trying to understand how this large group of capitalist pigs could royally screw their families, descendants, neighbors, countrymen and the rest of the whole world with absolutely no compassion.</q></p>
+	
+	<footer>
+		Prepared by: Tzu-chun Hsu
+		Date: 03/05/2022
+	</footer>
+	
+</body>
+</html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TzuChunHsu/A09/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
